@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a theoretical physisicst working on topics related to general relativity and quantum gravity.
-- 👀 I’m interested in working on computational projects in quantum computing, deep learning, and blockchain technologies.
-
+- 👋 Hi, I’m a theoretical physisicst conducting on topics related to general relativity and quantum gravity. If you're interested in learning more about my research, check me out at https://orcid.org/0000-0002-8901-6951.
+- 👀 Recently, I've become interested in working on projects in quantum computing, deep learning, and blockchain technologies.
+- 
 <!---
 kman2949/kman2949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
